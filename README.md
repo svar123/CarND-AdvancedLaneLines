@@ -15,12 +15,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/undistch.jpg "Undistorted"
-[image2]: ./output_images/undistrd.jpg "Road Transformed"
-[image3]: ./output_images/colorth.jpg "Color"
-[image4]: ./output_images/warped.jpg "Warped"
-[image5]: ./output_images/rect.jpg "Rectangles"
-[image6]: ./output_images/finalimage.jpg "Final"
+[image1]: ./output_images/undistch.JPG "Undistorted"
+[image2]: ./output_images/undistrd.JPG "Road Transformed"
+[image3]: ./output_images/colorth.JPG "Color"
+[image4]: ./output_images/warped.JPG "Warped"
+[image5]: ./output_images/rect.JPG "Rectangles"
+[image6]: ./output_images/finalimage.JPG "Final"
 [video1]: ./project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
